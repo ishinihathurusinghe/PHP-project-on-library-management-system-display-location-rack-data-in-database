@@ -1,6 +1,6 @@
 <?php
 
-//location_rack.php
+
 
 include '../database_connection.php';
 
